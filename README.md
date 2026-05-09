@@ -4,7 +4,7 @@ Documenting my journey in C programming, embedded systems, and low-level program
 
 ---
 
-## Current Focus
+## Current Focusing Area
 
 * C Programming Fundamentals
 * Pointers and Memory Management
